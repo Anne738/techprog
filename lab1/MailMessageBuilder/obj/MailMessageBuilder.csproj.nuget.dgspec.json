@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annbu\\Desktop\\tech_prog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj": {}
+    "C:\\Users\\annbu\\Source\\Repos\\techprog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annbu\\Desktop\\tech_prog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj": {
+    "C:\\Users\\annbu\\Source\\Repos\\techprog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annbu\\Desktop\\tech_prog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\annbu\\Source\\Repos\\techprog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj",
         "projectName": "MailMessageBuilder",
-        "projectPath": "C:\\Users\\annbu\\Desktop\\tech_prog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj",
+        "projectPath": "C:\\Users\\annbu\\Source\\Repos\\techprog\\lab1\\MailMessageBuilder\\MailMessageBuilder.csproj",
         "packagesPath": "C:\\Users\\annbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annbu\\Desktop\\tech_prog\\lab1\\MailMessageBuilder\\obj\\",
+        "outputPath": "C:\\Users\\annbu\\Source\\Repos\\techprog\\lab1\\MailMessageBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

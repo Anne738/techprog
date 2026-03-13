@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCConfigurator", "lab2\PCConfigurator.csproj", "{0E82430E-3420-4F23-A0DA-2D138889D23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonService", "SingletonService\SingletonService.csproj", "{7C3558B1-015C-4811-A51C-EEF9B77910A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E82430E-3420-4F23-A0DA-2D138889D23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E82430E-3420-4F23-A0DA-2D138889D23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E82430E-3420-4F23-A0DA-2D138889D23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E82430E-3420-4F23-A0DA-2D138889D23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3558B1-015C-4811-A51C-EEF9B77910A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3558B1-015C-4811-A51C-EEF9B77910A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3558B1-015C-4811-A51C-EEF9B77910A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3558B1-015C-4811-A51C-EEF9B77910A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
