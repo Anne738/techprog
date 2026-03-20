@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite.csproj", "{706039A9-EF08-441F-AD45-6D759AA2F75C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "..\decor\Decorator.csproj", "{3D02752A-85D4-4E89-AFD3-BFAF942BB7F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{706039A9-EF08-441F-AD45-6D759AA2F75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{706039A9-EF08-441F-AD45-6D759AA2F75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{706039A9-EF08-441F-AD45-6D759AA2F75C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D02752A-85D4-4E89-AFD3-BFAF942BB7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D02752A-85D4-4E89-AFD3-BFAF942BB7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D02752A-85D4-4E89-AFD3-BFAF942BB7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D02752A-85D4-4E89-AFD3-BFAF942BB7F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
