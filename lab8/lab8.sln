@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{6AAD6E01-1C2C-4420-B18F-967BE7B37B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{82B1D5A5-96C4-4EA9-8898-ECB191B6A908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAD6E01-1C2C-4420-B18F-967BE7B37B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAD6E01-1C2C-4420-B18F-967BE7B37B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAD6E01-1C2C-4420-B18F-967BE7B37B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAD6E01-1C2C-4420-B18F-967BE7B37B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B1D5A5-96C4-4EA9-8898-ECB191B6A908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B1D5A5-96C4-4EA9-8898-ECB191B6A908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B1D5A5-96C4-4EA9-8898-ECB191B6A908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B1D5A5-96C4-4EA9-8898-ECB191B6A908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
