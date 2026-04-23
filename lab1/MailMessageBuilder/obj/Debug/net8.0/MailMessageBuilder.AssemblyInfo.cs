@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MailMessageBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+057f04cce2aa8972bd9f1faa18fbf00b207f624e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b7951a40db5e7c138f7d6a97d0c26ecca3d451")]
 [assembly: System.Reflection.AssemblyProductAttribute("MailMessageBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MailMessageBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
